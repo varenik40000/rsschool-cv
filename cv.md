@@ -2,9 +2,9 @@
 
 ## Contacts
 
-	* Telegram: [https://t.me/vrnk_40000][vrnk_40000]
+	* Telegram: [https://t.me/vrnk_40000](vrnk_40000)
 	* Email: ofruktoz@gmail.com
-	* GitHub: [https://github.com/varenik40000][varenik40000] 
+	* GitHub: [https://github.com/varenik40000](varenik40000) 
 	* Discord: varenik40000
 
 ## About me

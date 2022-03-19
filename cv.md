@@ -1,8 +1,4 @@
-===
-
 # Ilyasov Rinat
-
-====
 
 ## Contacts
 
@@ -11,13 +7,9 @@
 	* GitHub: [https://github.com/varenik40000][varenik40000] 
 	* Discord: varenik40000
 
-====
-
 ## About me
 
-	I want to become Front-End Developer. Discover new opportunities, new horizons.
-
-===  
+	I want to become Front-End Developer. Discover new opportunities, new horizons. 
 
 ## Skills
 
@@ -27,20 +19,15 @@
 	* Git
 	* Figma / Photoshop
 	* Visual Studio Code/ Sublime Text
-
-===
 	
 ## Code example:
 `function multiply(a, b) {
  return a * b;
  }`
 
-===
-
 ## Experience
 	Without experience 
 
-===
 ## Education
 
 	* Ufa State Aviation Technical University,  Aerospace Engineering
@@ -48,9 +35,6 @@
 		+ [https://ru.code-basics.com/][Code-Basics]
 		+ [https://htmlacademy.ru/study][Htmlacademy]
 
-===
-
 ## English
 	A2 level
 
-===

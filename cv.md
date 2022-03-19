@@ -33,7 +33,7 @@
 	* Ufa State Aviation Technical University,  Aerospace Engineering
 	* Courses:
 		+ [Code-Basics](https://ru.code-basics.com/)
-		+ [https://ru.code-basics.com/][Code-Basics]
+		+ Code-Basics https://ru.code-basics.com/
 		+ [Htmlacademy](https://htmlacademy.ru/study)
 
 ## English

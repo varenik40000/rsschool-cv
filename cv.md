@@ -2,9 +2,9 @@
 
 ## Contacts
 
-	* Telegram: [https://t.me/vrnk_40000](vrnk_40000)
+	* Telegram: [vrnk_40000](https://t.me/vrnk_40000)
 	* Email: ofruktoz@gmail.com
-	* GitHub: [https://github.com/varenik40000](varenik40000) 
+	* GitHub: [varenik40000](https://github.com/varenik40000) 
 	* Discord: varenik40000
 
 ## About me
@@ -32,8 +32,8 @@
 
 	* Ufa State Aviation Technical University,  Aerospace Engineering
 	* Courses:
-		+ [https://ru.code-basics.com/][Code-Basics]
-		+ [https://htmlacademy.ru/study][Htmlacademy]
+		+ [Code-Basics][https://ru.code-basics.com/]
+		+ [Htmlacademy][https://htmlacademy.ru/study]
 
 ## English
 	A2 level

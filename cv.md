@@ -35,6 +35,7 @@
 		+ [Code-Basics](https://ru.code-basics.com/)
 		+ Code-Basics https://ru.code-basics.com/
 		+ [Htmlacademy](https://htmlacademy.ru/study)
+		+ [RSS JavaScript Front-end 2022Q1](https://app.rs.school)
 
 ## English
 	A2 level

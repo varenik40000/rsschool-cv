@@ -114,6 +114,51 @@ span {
   -o-object-fit: cover;
      object-fit: cover;
 }
+.Skills-item {
+  min-height: 30px;
+  padding-left: 40px;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: left center;
+  list-style: none;
+}
+.Skills-list li:nth-child(1) {
+  background-image: url(./img/html.svg);
+}
+.Skills-list li:nth-child(2) {
+  background-image: url(./img/css.svg);
+}
+.Skills-list li:nth-child(3) {
+  background-image: url(./img/javascript.svg);
+}
+.Skills-list li:nth-child(4) {
+  background-image: url(./img/github.svg);
+}
+.Skills-list li:nth-child(5) {
+  background-image: url(./img/figma.svg);
+}
+
+.Contact-item {
+  min-height: 30px;
+  padding-left: 40px;
+  background-repeat: no-repeat;
+  background-size: 30px;
+  background-position: left center;
+  list-style: none;
+}
+.Contact-list li:nth-child(1) {
+  background-image: url(./img/Telegram.png);
+}
+.Contact-list li:nth-child(2) {
+  background-image: url(./img/gmail-icon-logo.svg);
+}
+.Contact-list li:nth-child(3) {
+  background-image: url(./img/github.svg);
+}
+.Contact-list li:nth-child(4) {
+  background-image: url(./img/discord-icon.svg);
+}
+
 .footer {
   background-color: #003333;
   color: #FFFFFF;

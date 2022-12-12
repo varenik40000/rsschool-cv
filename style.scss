@@ -140,8 +140,55 @@ span {
 
 }
 
+.Skills {
+    &-item {
+        min-height: 30px;
+        padding-left:40px;
+        background-repeat: no-repeat;
+        background-size: 30px;
+        background-position: left center;
+        list-style: none;
+    }
 
-
+    &-list li:nth-child(1) {
+        background-image: url(./img/html.svg)
+    }
+    &-list li:nth-child(2) {
+        background-image: url(./img/css.svg)
+    }
+    &-list li:nth-child(3) {
+        background-image: url(./img/javascript.svg)
+    }
+    &-list li:nth-child(4) {
+        background-image: url(./img/github.svg)
+    }
+    &-list li:nth-child(5) {
+        background-image: url(./img/figma.svg)
+    }
+   
+}
+.Contact{
+    &-item{
+        min-height: 30px;
+        padding-left:40px;
+        background-repeat: no-repeat;
+        background-size: 30px;
+        background-position: left center;
+        list-style: none;
+    }
+    &-list li:nth-child(1){
+        background-image: url(./img/Telegram.png);
+    }
+    &-list li:nth-child(2){
+        background-image: url(./img/gmail-icon-logo.svg);
+    }
+    &-list li:nth-child(3) {
+        background-image: url(./img/github.svg)
+    }
+    &-list li:nth-child(4) {
+        background-image: url(./img/discord-icon.svg)
+    }
+}
 
 
 

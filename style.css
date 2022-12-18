@@ -163,8 +163,9 @@ span {
   background-color: #003333;
   color: #FFFFFF;
   height: 80px;
-  width: 100vw;
+  width: 100%;
   display: flex;
+  align-items: center;
 }
 .footer-container {
   display: flex;

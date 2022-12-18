@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+* {
+  box-sizing: border-box;
+}
+
+>>>>>>> gh-pages
 .body {
   background-color: #99CCCC;
 }
@@ -75,11 +82,23 @@ span {
   color: #000;
   /* margin: 0 auto; */
 }
+<<<<<<< HEAD
+=======
+.main-container {
+  overflow: hidden;
+}
+>>>>>>> gh-pages
 .main-inner {
   display: flex;
   flex-direction: column;
   /* align-items: center; */
   margin: 0 auto;
+<<<<<<< HEAD
+=======
+  overflow-y: hidden;
+  overflow-x: hidden;
+  overflow: hidden;
+>>>>>>> gh-pages
 }
 .main-inner .flex-item {
   width: 700px;

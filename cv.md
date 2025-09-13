@@ -18,7 +18,7 @@
 	* JavaScript (Basic)
 	* Git
 	* Figma / Photoshop
-	* Visual Studio Code/ Sublime Text
+	* Visual Studio Code/ Sublime Text/ WebStorm
 	
 ## Code example:
 `function multiply(a, b) {
